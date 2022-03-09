@@ -1,0 +1,1 @@
+aircrack-ng CAPFILE -w /usr/share/wordlists/big.txt
